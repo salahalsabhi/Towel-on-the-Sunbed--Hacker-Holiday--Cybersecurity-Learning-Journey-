@@ -871,7 +871,7 @@ For educational purposes only. Always test systems only when you have explicit a
 
 ---
 
-LinkedIn:[]
+LinkedIn:[https://www.linkedin.com/feed/update/urn:li:activity:7490293945470640129/]
 
 X: [https://x.com/charisma1385/status/2084430432792084699]
 
